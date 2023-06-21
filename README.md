@@ -37,6 +37,8 @@ Run the following tasks:
 
 ### Bridging the NFT
 
+In your Unix or Linux environment 
+
 - Initialize git by running `git init`
 
 - `forge --version` To check the version of forge installed. Install forge from https://book.getfoundry.sh/getting-started/installation
