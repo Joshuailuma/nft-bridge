@@ -47,7 +47,7 @@ Run the following tasks:
 
 - `export GTOKEN_ADDRS=0x743AeC8E865a7CB2A83BF379e5Bc97a14DB562B2` Save your deployed token address to the env
 
-- `export MTOKEN_ADDRS=0x910fC1283e912f454b6Fd35a8832fE9Fa41B139a` Save your deployed token address to the env. Map your token here[https://mapper.polygon.technology/map] and save its child address as MTOKEN_ADDRS 
+- `export MTOKEN_ADDRS=0x910fC1283e912f454b6Fd35a8832fE9Fa41B139a` Save your mapped token address to the env. Map your token here[https://mapper.polygon.technology/map] and save its child address as MTOKEN_ADDRS 
 
 - `export FX_ADDRS=0x823eF03B39C339337E451d82cEC57f31316de15F` The address of the FxERC721RootTunnel Contract
 
